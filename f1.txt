@@ -1,2 +1,1 @@
-
-merge conflict
+new text in branch2
